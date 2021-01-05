@@ -1,2 +1,2 @@
-# URL Shortnet
- A quick URL shortner built using Flask + MySQL and containerized using Docker
+# URL Shortener
+ A quick URL shortener built using Flask + MySQL and containerized using Docker
